@@ -2,6 +2,8 @@ package shortestDistanceFromGate;
 
 public class Position {
 	
+	//release
+	
 	private int rowIndex;
 	private int columnIndex;
 	
